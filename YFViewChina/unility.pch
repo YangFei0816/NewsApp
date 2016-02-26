@@ -1,0 +1,31 @@
+//
+//  unility.pch
+//  YFViewChina
+//
+//  Created by qianfneg on 16/1/19.
+//  Copyright © 2016年 杨飞. All rights reserved.
+//
+
+#ifndef unility_pch
+#define unility_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 3.自定义Log
+#ifdef DEBUG
+#define YFLog(...) NSLog(__VA_ARGS__)
+#else
+#define YFLog(...)
+#endif
+//自定义随机色
+#define random  arc4random()%256/255.0
+#define randomColor [UIColor colorWithRed:random green:random blue:random alpha:1.0]
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import "AFNetworking.h"
+#import "NSArray+YFUtil.h"
+
+#endif
+
+/* unility_pch */

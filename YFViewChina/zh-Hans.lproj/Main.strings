@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Nc-qx-9Tl"; */
+"2Nc-qx-9Tl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "642-X4-Qka"; */
+"642-X4-Qka.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "段子"; ObjectID = "6VN-HD-D52"; */
+"6VN-HD-D52.title" = "段子";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9GU-OX-yt1"; */
+"9GU-OX-yt1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "段子"; ObjectID = "Bih-uP-Dl3"; */
+"Bih-uP-Dl3.title" = "段子";
+
+/* Class = "UITabBarItem"; title = "图片"; ObjectID = "Gho-6v-UgH"; */
+"Gho-6v-UgH.title" = "图片";
+
+/* Class = "UINavigationItem"; title = "新闻"; ObjectID = "Jaj-Uu-URN"; */
+"Jaj-Uu-URN.title" = "新闻";
+
+/* Class = "UISegmentedControl"; PrQ-KH-bBZ.segmentTitles[0] = "段子"; ObjectID = "PrQ-KH-bBZ"; */
+"PrQ-KH-bBZ.segmentTitles[0]" = "段子";
+
+/* Class = "UISegmentedControl"; PrQ-KH-bBZ.segmentTitles[1] = "趣图"; ObjectID = "PrQ-KH-bBZ"; */
+"PrQ-KH-bBZ.segmentTitles[1]" = "趣图";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYu-gX-2U3"; */
+"dYu-gX-2U3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h8O-3D-YH8"; */
+"h8O-3D-YH8.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "视频"; ObjectID = "hKk-Ha-R8q"; */
+"hKk-Ha-R8q.title" = "视频";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "my5-7e-awO"; */
+"my5-7e-awO.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "新闻"; ObjectID = "oVV-Kc-fNb"; */
+"oVV-Kc-fNb.title" = "新闻";
+
+/* Class = "UINavigationItem"; title = "图片"; ObjectID = "pVk-w0-w4F"; */
+"pVk-w0-w4F.title" = "图片";
+
+/* Class = "UINavigationItem"; title = "视频"; ObjectID = "z6R-8m-5DK"; */
+"z6R-8m-5DK.title" = "视频";
